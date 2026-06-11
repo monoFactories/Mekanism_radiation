@@ -1,0 +1,33 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "category":"misc",
+  "key": {
+    "A": {
+      "tag":"c:ingots/lead"
+    },
+    "B": {
+      "tag":"c:circuits/elite"
+    },
+    "C": {
+      "item": "mekanism:basic_chemical_tank"
+    },
+    "D": {
+      "tag": "c:ingots/refined_glowstone"
+    },
+    "E": {
+      "tag": "c:ingots/refined_obsidian"
+    },
+    "F": {
+      "tag": "c:alloys/advanced"
+    }
+  },
+  "pattern":[
+    "ADE",
+    "CBF",
+    "EDA"
+  ],
+  "result":{
+    "count":1,
+    "id":"mekanismradiation:radiation_cleaner"
+  }
+}

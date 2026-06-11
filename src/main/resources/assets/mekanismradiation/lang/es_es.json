@@ -1,0 +1,6 @@
+{
+  "itemGroup.mekanismradiation": "Mekanism: Radiación",
+  "item.mekanismradiation.radiation_cleaner": "Limpiador de radiación",
+  "item.mekanismradiation.radiation_cleaner.clean_message_removed": "Radiación reducida en: %1$s",
+  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "No se ha detectado radiación en un radio de %d bloques"
+}
