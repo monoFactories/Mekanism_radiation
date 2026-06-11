@@ -1,14 +1,11 @@
 package mono.mek.rad;
 
 import com.mojang.logging.LogUtils;
-import mekanism.api.text.EnumColor;
-import mekanism.common.lib.radiation.RadiationScale;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.component.ItemAttributeModifiers;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.ModContainer;
@@ -21,13 +18,11 @@ import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import org.slf4j.Logger;
 
-// The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(MekanismRadiation.MODID)
 public class MekanismRadiation {
     public static final String MODID = "mekanismradiation";
     public static final Logger LOGGER = LogUtils.getLogger();
-    //EnumColor severityColor = RadiationScale.getSeverityColor(magnitude);
-    //TextComponentUtil.smartTranslate(this.getTranslationKey(), args);
+
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(MODID);
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
 
