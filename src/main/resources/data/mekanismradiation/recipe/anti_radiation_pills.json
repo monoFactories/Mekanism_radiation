@@ -1,0 +1,30 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "category":"misc",
+  "key": {
+    "A": {
+      "item": "minecraft:dried_kelp"
+    },
+    "B": {
+      "tag": "c:glass_panes"
+    },
+    "C": {
+      "tag": "c:dusts/lapis"
+    },
+    "D": {
+      "tag": "c:ingots/bronze"
+    },
+    "E": {
+      "tag": "c:dusts/salt"
+    }
+  },
+  "pattern": [
+    "CDC",
+    "BEB",
+    "AEA"
+  ],
+  "result":{
+    "count":1,
+    "id":"mekanismradiation:anti_radiation_pills"
+  }
+}
