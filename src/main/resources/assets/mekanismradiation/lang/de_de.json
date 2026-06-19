@@ -2,5 +2,6 @@
   "itemGroup.mekanismradiation": "Mekanism: Strahlung",
   "item.mekanismradiation.radiation_cleaner": "Strahlungsbeseitiger",
   "item.mekanismradiation.radiation_cleaner.clean_message_removed": "Strahlung reduziert um: %1$s",
-  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "Keine Strahlung im Umkreis von %d Blöcken erkannt"
+  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "Keine Strahlung im Umkreis von %d Blöcken erkannt",
+  "item.mekanismradiation.anti_radiation_pills": "Antistrahlpillen"
 }

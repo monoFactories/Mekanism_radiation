@@ -2,5 +2,6 @@
   "itemGroup.mekanismradiation": "Mekanism: Radiation",
   "item.mekanismradiation.radiation_cleaner": "очиститель радиации",
   "item.mekanismradiation.radiation_cleaner.clean_message_removed": "Радиация снижена на: %1$s",
-  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "Радиация не обнаружена в радиусе %d блоков"
+  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "Радиация не обнаружена в радиусе %d блоков",
+  "item.mekanismradiation.anti_radiation_pills": "Антирадиационные таблетки"
 }

@@ -2,5 +2,6 @@
   "itemGroup.mekanismradiation": "Mekanism: Radiazione",
   "item.mekanismradiation.radiation_cleaner": "Pulitore di Radiazione",
   "item.mekanismradiation.radiation_cleaner.clean_message_removed": "Radiazione ridotta di: %1$s",
-  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "Nessuna radiazione rilevata entro %d blocchi"
+  "item.mekanismradiation.radiation_cleaner.clean_message_no_radiation": "Nessuna radiazione rilevata entro %d blocchi",
+  "item.mekanismradiation.anti_radiation_pills": "Compresse antiradiazione"
 }
